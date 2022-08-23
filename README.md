@@ -54,6 +54,24 @@ For Alloy:
 git clone https://github.com/RiversideRocks/alloyproxy
 
 Step 3:
+do the cd command for each 
+
+Nodeunblocker 
+
+cd nodeunblocker.com
+
+Riptide
+cd Riptide
+
+Alloyproxy
+
+cd alloyproxy
+
+Shadow
+
+cd Shadow
+
+Step 4:
 
 
 
