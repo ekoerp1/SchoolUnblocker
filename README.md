@@ -42,7 +42,6 @@ Type one of these commands based on what you want to install
 
 For  nodeunblocker do: 
 
-
 git clone https://github.com/nfriedly/nodeunblocker.com
 
 For Riptide:
