@@ -38,7 +38,19 @@ If it says something about changing settings json press yes and after that you p
 
 STEP 2:
 Type one of these commands based on what you want to install
-For  nodeunblocker do: git clone https://github.com/nfriedly/nodeunblocker.com
+For  nodeunblocker do: 
+git clone https://github.com/nfriedly/nodeunblocker.com
+
+For Riptide:
+git clone https://github.com/FogNetwork/Riptide
+
+For Shadow:
+git clone https://github.com/FogNetwork/Shadow
+
+For Alloy:
+git clone https://github.com/RiversideRocks/alloyproxy
+
+Step 3:
 
 
 
