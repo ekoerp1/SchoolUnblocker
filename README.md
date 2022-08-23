@@ -28,6 +28,6 @@ Now make a codeanywhere container in python
 Now it should start up
 
 Once you do so it should look like this:
-![Screenshot 2022-08-22 7 25 59 PM](https://user-images.githubusercontent.com/95361381/186055289-29f0fa76-8d39-41fe-b480-acc349bda954.png)
+![Screenshot 2022-08-22 7 25 59 PM](https://user-images.githubusercontent.com/95361381/186055436-520a91d0-e680-4adf-8a31-ab677e783119.png)
 
 
