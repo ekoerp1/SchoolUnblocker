@@ -83,6 +83,9 @@ Do npm start
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Step 6:
 Lastly now you press open in web browser where im highlighting:
+![Screenshot 2022-08-22 7 57 53 PM](https://user-images.githubusercontent.com/95361381/186059662-ea2fc09c-f7b0-4a5a-93e5-4670e00cb816.png)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Now you enjoy being able to search unrestricted on a school chromebook!!!!!!!!!!!
 
