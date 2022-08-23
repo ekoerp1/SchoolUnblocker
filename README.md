@@ -15,3 +15,6 @@ STEP 1:
 
 Go to https://codeanywhere.com/
 
+Make an account using a temp email because there is a free trial and when thats up you can make another 
+
+temp email link: https://tempmailo.com/ 
