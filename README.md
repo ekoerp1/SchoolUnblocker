@@ -30,7 +30,10 @@ Now it should start up
 Once you do so it should look like this:
 ![Screenshot 2022-08-22 7 25 59 PM](https://user-images.githubusercontent.com/95361381/186055436-520a91d0-e680-4adf-8a31-ab677e783119.png)
 
+
 If it says something about changing settings json press yes and after that you press the close buttion and it will look like this after it loads:
+
+
 ![Screenshot 2022-08-22 7 30 20 PM](https://user-images.githubusercontent.com/95361381/186055887-b00030bd-095a-42b1-b273-469be6257920.png)
 
 
