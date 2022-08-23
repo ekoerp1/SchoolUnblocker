@@ -1,4 +1,6 @@
-CREDIT TO ORIGINAL OWNERS: All what I am doing is making a guide for if you cant access the ternamal on the computer like for ones you use at school
+CREDIT TO ORIGINAL OWNERS!!! 
+
+All what I am doing is making a guide for if you can't access the ternamal on the computer like for ones you use at school you can use the code still.
 
 Original Respitorys:
 
