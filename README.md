@@ -25,4 +25,6 @@ Now you should be on your dashboard the link is: https://dashboard.codeanywhere.
 
 Now make a codeanywhere container in python
 
+Once you do so it should look like this:
+
 
