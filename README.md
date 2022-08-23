@@ -56,7 +56,7 @@ git clone https://github.com/RiversideRocks/alloyproxy
 Step 3:
 do the cd command for each 
 
-Nodeunblocker 
+Nodeunblocker: 
 cd nodeunblocker.com
 
 Riptide:
@@ -69,6 +69,11 @@ Shadow:
 cd Shadow
 
 Step 4:
+Do npm install
+
+Step 5:
+Do npm start
+
 
 
 
