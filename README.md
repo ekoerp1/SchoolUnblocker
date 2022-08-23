@@ -36,6 +36,7 @@ If it says something about changing settings json press yes and after that you p
 
 ![Screenshot 2022-08-22 7 30 20 PM](https://user-images.githubusercontent.com/95361381/186055887-b00030bd-095a-42b1-b273-469be6257920.png)
 
+STEP 2:
 
 
 
