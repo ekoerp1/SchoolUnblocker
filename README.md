@@ -57,18 +57,15 @@ Step 3:
 do the cd command for each 
 
 Nodeunblocker 
-
 cd nodeunblocker.com
 
-Riptide
+Riptide:
 cd Riptide
 
-Alloyproxy
-
+Alloyproxy:
 cd alloyproxy
 
-Shadow
-
+Shadow:
 cd Shadow
 
 Step 4:
