@@ -21,5 +21,5 @@ temp email link: https://tempmailo.com/
 
 When you create the account check the temp mail (press refresh if it dosent come up)
 
-Now you should be on your dashboard the link is: https://dashboard.codeanywhere.com/containers
+Now you should be on your dashboard the link is: https://dashboard.codeanywhere.com
 
