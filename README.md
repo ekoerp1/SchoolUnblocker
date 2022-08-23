@@ -10,7 +10,7 @@ Riptide: https://github.com/FogNetwork/Riptide
 Shadow: https://github.com/FogNetwork/Shadow
 
 alloyproxy: https://github.com/RiversideRocks/alloyproxy
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 STEP 1:
 
 Go to https://codeanywhere.com/
@@ -35,7 +35,7 @@ If it says something about changing settings json press yes and after that you p
 
 
 ![Screenshot 2022-08-22 7 30 20 PM](https://user-images.githubusercontent.com/95361381/186055887-b00030bd-095a-42b1-b273-469be6257920.png)
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 STEP 2:
 Type one of these commands based on what you want to install
 
@@ -52,8 +52,7 @@ git clone https://github.com/FogNetwork/Shadow
 
 For Alloy:
 git clone https://github.com/RiversideRocks/alloyproxy
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 STEP 3:
 do the cd command for each 
 
@@ -68,15 +67,13 @@ cd alloyproxy
 
 Shadow:
 cd Shadow
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 STEP 4:
 Do npm install
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 STEP 5:
 Do npm start
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
