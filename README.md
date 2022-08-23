@@ -53,6 +53,7 @@ git clone https://github.com/FogNetwork/Shadow
 For Alloy:
 git clone https://github.com/RiversideRocks/alloyproxy
 
+
 Step 3:
 do the cd command for each 
 
@@ -68,8 +69,10 @@ cd alloyproxy
 Shadow:
 cd Shadow
 
+
 Step 4:
 Do npm install
+
 
 Step 5:
 Do npm start
