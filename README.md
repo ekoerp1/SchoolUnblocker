@@ -2,6 +2,7 @@ CREDIT TO ORIGINAL OWNERS!!!
 
 All what I am doing is making a guide for if you can't access the ternamal on the computer like for ones you use at school you can use the code still.
 
+I added a depled verson in the url on the sidebar enjoy it while it lasts 
 Original Respitorys:
 
 Nodeunblocker: https://github.com/nfriedly/nodeunblocker.com
